@@ -9,5 +9,5 @@
 
 🌐 Site
 
-[jeremy-joube.github.io/Portfolio/](jeremy-joube.github.io/Portfolio/)
+[https://jeremy-joube.github.io/Portfolio/](https://jeremy-joube.github.io/Portfolio/)
 
