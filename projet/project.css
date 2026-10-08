@@ -627,10 +627,6 @@ img {
 .glitch-image > img:first-child {
 
     width: 100%;
-
-    filter:
-        grayscale(100%)
-        contrast(1.15);
 }
 
 .glitch-image__layer {

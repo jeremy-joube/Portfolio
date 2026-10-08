@@ -688,7 +688,7 @@ img {
     display: none;
 
     filter:
-        grayscale(100%)
+        grayscale(0%)
         contrast(1.3);
 
     pointer-events: none;
